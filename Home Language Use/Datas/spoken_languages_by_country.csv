@@ -1,0 +1,387 @@
+country,language,count,percent
+Andorra,Catalan; Valencian,355,35.3585657370518
+Andorra,Spanish; Castilian,369,36.75298804780876
+Andorra,French,53,5.278884462151394
+Andorra,Portuguese,113,11.254980079681275
+Andorra,Other,34,3.386454183266932
+Andorra,Other European,80,7.968127490039841
+Argentina,Spanish; Castilian,999,99.6011964107677
+Argentina,Other,4,0.3988035892323031
+Australia,Afrikaans,2,0.11129660545353368
+Australia,Arabic,9,0.5008347245409015
+Australia,Armenian; Hayeren,1,0.05564830272676684
+Australia,Auslan,1,0.05564830272676684
+Australia,Bengali; Bangla,3,0.1669449081803005
+Australia,Cantonese,15,0.8347245409015025
+Australia,Croatian,3,0.1669449081803005
+Australia,Czech,1,0.05564830272676684
+Australia,Danish,1,0.05564830272676684
+Australia,English,1662,92.48747913188647
+Australia,Spanish; Castilian,2,0.11129660545353368
+Australia,Estonian,1,0.05564830272676684
+Australia,Filipino; Pilipino,2,0.11129660545353368
+Australia,French,1,0.05564830272676684
+Australia,German,2,0.11129660545353368
+Australia,"Greek, Modern",6,0.333889816360601
+Australia,Gujarati,2,0.11129660545353368
+Australia,Hindi,3,0.1669449081803005
+Australia,Indonesian,3,0.1669449081803005
+Australia,Italian,4,0.22259321090706735
+Australia,Japanese,2,0.11129660545353368
+Australia,Central Khmer,1,0.05564830272676684
+Australia,Korean,8,0.4451864218141347
+Australia,Lao,1,0.05564830272676684
+Australia,Malay; Malaysian,1,0.05564830272676684
+Australia,Malayalam,1,0.05564830272676684
+Australia,Maltese,1,0.05564830272676684
+Australia,Standard Chinese; Mandarin; Putonghua; Guoyu,28,1.5581524763494714
+Australia,Marathi,2,0.11129660545353368
+Australia,Persian; Farsi; Dari,4,0.22259321090706735
+Australia,"Punjabi, Panjabi",1,0.05564830272676684
+Australia,Russian,4,0.22259321090706735
+Australia,Serbian,1,0.05564830272676684
+Australia,"Sinhala, Sinhalese",4,0.22259321090706735
+Australia,Somali,1,0.05564830272676684
+Australia,Swedish,1,0.05564830272676684
+Australia,Tagalog,3,0.1669449081803005
+Australia,Tamil,1,0.05564830272676684
+Australia,Telugu,2,0.11129660545353368
+Australia,Urdu,1,0.05564830272676684
+Australia,Vietnamese,3,0.1669449081803005
+Australia,Yiddish,1,0.05564830272676684
+Australia,Other,1,0.05564830272676684
+Bangladesh,Bengali; Bangla,1200,100.0
+Armenia,Armenian; Hayeren,1202,98.44389844389845
+Armenia,Russian,12,0.9828009828009828
+Armenia,Other,7,0.5733005733005733
+Bolivia,Aymara,46,2.2286821705426356
+Bolivia,Spanish; Castilian,1823,88.32364341085271
+Bolivia,Guarani,1,0.04844961240310078
+Bolivia,Quechua,194,9.39922480620155
+Brazil,English,1,0.056753688989784334
+Brazil,Spanish; Castilian,1,0.056753688989784334
+Brazil,German,1,0.056753688989784334
+Brazil,Japanese,1,0.056753688989784334
+Brazil,Portuguese,1758,99.77298524404085
+Myanmar,Burmese,1079,89.91666666666667
+Myanmar,Hindi,3,0.25
+Myanmar,Sgaw Karen; Sgaw Kayin; Karen,39,3.25
+Myanmar,Mon,11,0.9166666666666666
+Myanmar,Shan,22,1.8333333333333333
+Myanmar,Other,46,3.833333333333333
+Canada,Arabic,12,0.2986560477849677
+Canada,Cantonese,53,1.3190642110502737
+Canada,English,2815,70.059731209557
+Canada,Spanish; Castilian,17,0.42309606769537084
+Canada,French,962,23.94225983076157
+Canada,Italian,3,0.07466401194624192
+Canada,Standard Chinese; Mandarin; Putonghua; Guoyu,21,0.5226480836236934
+Canada,"Punjabi, Panjabi",15,0.3733200597312096
+Canada,Tagalog,16,0.3982080637132902
+Canada,Other,104,2.5883524141363865
+Chile,English,12,1.2
+Chile,Spanish; Castilian,982,98.2
+Chile,French,4,0.4
+Chile,German,1,0.1
+Chile,Italian,1,0.1
+China,Standard Chinese; Mandarin; Putonghua; Guoyu,737,24.355584930601452
+China,Other Chinese dialects,2289,75.64441506939855
+Taiwan,Hakka Chinese,14,1.1447260834014716
+Taiwan,Standard Chinese; Mandarin; Putonghua; Guoyu,595,48.65085854456255
+Taiwan,Hokkien; Minnan,585,47.83319705641864
+Taiwan,Other,27,2.2076860179885527
+Taiwan,"Other local; aboriginal; tribal, community",2,0.1635322976287817
+Colombia,English,15,0.992063492063492
+Colombia,Spanish; Castilian,1495,98.87566137566137
+Colombia,German,1,0.06613756613756613
+Colombia,"Other local; aboriginal; tribal, community",1,0.06613756613756613
+Cyprus,English,20,2.002002002002002
+Cyprus,"Greek, Modern",503,50.35035035035035
+Cyprus,Turkish,456,45.645645645645644
+Cyprus,Other,20,2.002002002002002
+Czechia,Czech,1185,98.75
+Czechia,English,1,0.08333333333333334
+Czechia,German,1,0.08333333333333334
+Czechia,Romani; Romany,4,0.33333333333333337
+Czechia,Unlisted Language,7,0.5833333333333334
+Czechia,Ukrainian,2,0.16666666666666669
+Ecuador,Spanish; Castilian,1193,99.41666666666666
+Ecuador,Quechua,5,0.4166666666666667
+Ecuador,Other,2,0.16666666666666669
+Ethiopia,Afar,53,4.308943089430894
+Ethiopia,Amharic,531,43.170731707317074
+Ethiopia,Oromo,213,17.317073170731707
+Ethiopia,Sidamo; Sidaama; Sidaamu Afoo,78,6.341463414634147
+Ethiopia,Somali,83,6.747967479674796
+Ethiopia,Tigrinya,111,9.024390243902438
+Ethiopia,Other,161,13.089430894308943
+Germany,Arabic,9,0.5890052356020943
+Germany,German,1411,92.34293193717278
+Germany,Polish,10,0.6544502617801047
+Germany,Russian,10,0.6544502617801047
+Germany,Turkish,18,1.1780104712041886
+Germany,Other,70,4.5811518324607325
+Greece,Albanian,20,1.6666666666666667
+Greece,Bulgarian,2,0.16666666666666669
+Greece,"Greek, Modern",1167,97.25
+Greece,Ukrainian,2,0.16666666666666669
+Greece,Other,9,0.75
+Guatemala,English,8,0.6562756357670222
+Guatemala,Spanish; Castilian,1181,96.88269073010665
+Guatemala,French,1,0.08203445447087777
+Guatemala,Garifuna,2,0.16406890894175555
+Guatemala,Kaqchikel,1,0.08203445447087777
+Guatemala,Mayan languages,22,1.8047579983593112
+Guatemala,Portuguese,1,0.08203445447087777
+Guatemala,"Other local; aboriginal; tribal, community",3,0.2461033634126333
+Hong Kong SAR,Cantonese,1979,95.37349397590361
+Hong Kong SAR,English,26,1.253012048192771
+Hong Kong SAR,Standard Chinese; Mandarin; Putonghua; Guoyu,34,1.6385542168674698
+Hong Kong SAR,Other,6,0.2891566265060241
+Hong Kong SAR,Other Chinese dialects,30,1.4457831325301205
+India,Bengali; Bangla,141,8.33826138379657
+India,Hindi,930,54.99704316972206
+India,Marathi,183,10.82199881726789
+India,"Punjabi, Panjabi",126,7.451212300413957
+India,Telugu,186,10.999408633944412
+India,Other,125,7.392075694855116
+Indonesia,Balinese,89,2.7838598686268377
+Indonesia,Banjar,66,2.064435408195183
+Indonesia,Batak,49,1.5326868939630904
+Indonesia,Betawi,8,0.25023459493274947
+Indonesia,Buginese/Bugis,37,1.1573350015639663
+Indonesia,Indonesian,873,27.306850172036285
+Indonesia,Javanese,1075,33.62527369408821
+Indonesia,Lampung,3,0.09383797309978105
+Indonesia,Madurese,73,2.283390678761339
+Indonesia,Makassarese,45,1.4075695964967156
+Indonesia,Standard Chinese; Mandarin; Putonghua; Guoyu,2,0.06255864873318737
+Indonesia,Palembang,39,1.2198936502971536
+Indonesia,Sundanese,391,12.23021582733813
+Indonesia,Toraja-Saʼdan,2,0.06255864873318737
+Indonesia,Other,390,12.198936502971536
+Indonesia,"Other local; aboriginal; tribal, community",55,1.7203628401626525
+Iran,Arabic,18,1.2016021361815754
+Iran,Azerbaijani; Azeri,258,17.222963951935917
+Iran,Gilaki,94,6.275033377837117
+Iran,Kurdish; Yezidi,87,5.807743658210948
+Iran,Lurish; Luri; Bakhtiari,60,4.005340453938585
+Iran,Persian; Farsi; Dari,911,60.814419225634175
+Iran,Other,70,4.672897196261682
+Iraq,Arabic,1007,83.91666666666666
+Iraq,Assyrian Neo-Aramaic,1,0.08333333333333334
+Iraq,Kurdish; Yezidi,178,14.833333333333334
+Iraq,Turkmen,14,1.1666666666666667
+Japan,English,2,0.1492537313432836
+Japan,Japanese,1338,99.85074626865672
+Kazakhstan,Azerbaijani; Azeri,11,0.8620689655172413
+Kazakhstan,Kazakh,678,53.13479623824452
+Kazakhstan,Korean,1,0.07836990595611285
+Kazakhstan,Kurdish; Yezidi,8,0.6269592476489028
+Kazakhstan,Lezgian; Lezgi; Lezgin,1,0.07836990595611285
+Kazakhstan,Persian; Farsi; Dari,1,0.07836990595611285
+Kazakhstan,Russian,519,40.673981191222566
+Kazakhstan,Tajik,1,0.07836990595611285
+Kazakhstan,Tatar,1,0.07836990595611285
+Kazakhstan,Turkish,4,0.3134796238244514
+Kazakhstan,Uighur; Uyghur,4,0.3134796238244514
+Kazakhstan,Uzbek,47,3.683385579937304
+Jordan,Arabic,1196,99.41812136325852
+Jordan,English,4,0.3325020781379884
+Jordan,German,1,0.0831255195344971
+Jordan,Other,2,0.1662510390689942
+Kenya,Arabic,1,0.07898894154818326
+Kenya,Hindi,1,0.07898894154818326
+Kenya,Kalenjin,122,9.636650868878357
+Kenya,Kamba,100,7.898894154818326
+Kenya,Kikuyu; Gikuyu,158,12.480252764612953
+Kenya,Kisii,38,3.0015797788309637
+Kenya,Luhya,102,8.056872037914692
+Kenya,"Luo, Lwo; Lwoian",106,8.372827804107425
+Kenya,Maasai,23,1.8167456556082147
+Kenya,Meru,61,4.818325434439179
+Kenya,Mijikenda,41,3.238546603475513
+Kenya,Somali,85,6.714060031595577
+Kenya,Swahili,356,28.12006319115324
+Kenya,Turkana,31,2.448657187993681
+Kenya,Other,41,3.238546603475513
+South Korea,Korean,1245,100.0
+Kyrgyzstan,Kazakh,2,0.16666666666666669
+Kyrgyzstan,Kirghiz; Kyrgyz,851,70.91666666666666
+Kyrgyzstan,Russian,200,16.666666666666664
+Kyrgyzstan,Tajik,2,0.16666666666666669
+Kyrgyzstan,Uzbek,129,10.75
+Kyrgyzstan,Other,16,1.3333333333333335
+Lebanon,Arabic,1175,97.91666666666666
+Lebanon,Armenian; Hayeren,17,1.4166666666666665
+Lebanon,English,2,0.16666666666666669
+Lebanon,French,6,0.5
+Libya,Arabic,1161,97.07357859531773
+Libya,Berber; Amazigh; Tamaziɣt,30,2.508361204013378
+Libya,Other,5,0.4180602006688963
+Macau SAR,Cantonese,955,93.44422700587084
+Macau SAR,English,9,0.8806262230919765
+Macau SAR,Standard Chinese; Mandarin; Putonghua; Guoyu,28,2.73972602739726
+Macau SAR,Portuguese,2,0.19569471624266144
+Macau SAR,Other,28,2.73972602739726
+Malaysia,English,161,12.261995430312261
+Malaysia,Malay; Malaysian,775,59.025133282559025
+Malaysia,Standard Chinese; Mandarin; Putonghua; Guoyu,267,20.335110434120335
+Malaysia,Tamil,50,3.808073115003808
+Malaysia,Other,60,4.56968773800457
+Maldives,Bengali; Bangla,1,0.09633911368015415
+Maldives,Unlisted Language,1034,99.61464354527938
+Maldives,English,2,0.1926782273603083
+Maldives,Malayalam,1,0.09633911368015415
+Mexico,Spanish; Castilian,1738,99.82768523836876
+Mexico,Other,3,0.17231476163124643
+Mongolia,English,6,0.3663003663003663
+Mongolia,Kazakh,14,0.8547008547008548
+Mongolia,Mongolian,1615,98.5958485958486
+Mongolia,Russian,3,0.18315018315018314
+Morocco,Arabic,1039,86.58333333333333
+Morocco,Berber; Amazigh; Tamaziɣt,134,11.166666666666666
+Morocco,"Hassaniyya, Klem El Bithan",27,2.25
+Netherlands,Arabic,5,0.24888003982080636
+Netherlands,Unlisted Language,1869,93.03135888501743
+Netherlands,English,31,1.5430562468889994
+Netherlands,Spanish; Castilian,4,0.1991040318566451
+Netherlands,French,3,0.14932802389248384
+Netherlands,German,6,0.2986560477849677
+Netherlands,Other,91,4.529616724738676
+New Zealand,English,987,95.73229873908826
+New Zealand,Japanese,1,0.09699321047526674
+New Zealand,Standard Chinese; Mandarin; Putonghua; Guoyu,11,1.066925315227934
+New Zealand,Maori,3,0.2909796314258002
+New Zealand,Other,26,2.521823472356935
+New Zealand,"Other local; aboriginal; tribal, community",3,0.2909796314258002
+Nicaragua,English,4,0.33333333333333337
+Nicaragua,Spanish; Castilian,1194,99.5
+Nicaragua,Other,2,0.16666666666666669
+Nigeria,English,130,10.543390105433902
+Nigeria,Hausa,417,33.81995133819951
+Nigeria,Igbo,142,11.516626115166261
+Nigeria,Isoko,2,0.16220600162206003
+Nigeria,Nigerian Pidgin,62,5.02838605028386
+Nigeria,Tiv,18,1.4598540145985401
+Nigeria,Urhobo,8,0.6488240064882401
+Nigeria,Yoruba,297,24.087591240875913
+Nigeria,Other,157,12.73317112733171
+Pakistan,Balochi,49,2.457372116349047
+Pakistan,Brahui,4,0.20060180541624875
+Pakistan,Kashmiri,1,0.05015045135406219
+Pakistan,"Punjabi, Panjabi",850,42.62788365095286
+Pakistan,"Pashto, Pushto",281,14.092276830491473
+Pakistan,Saraiki,246,12.337011033099298
+Pakistan,Sindhi,311,15.59679037111334
+Pakistan,Urdu,199,9.979939819458375
+Pakistan,Other,53,2.657973921765296
+Peru,Aymara,12,0.8571428571428572
+Peru,Spanish; Castilian,1321,94.35714285714286
+Peru,Quechua,66,4.714285714285714
+Peru,Other,1,0.07142857142857142
+Philippines,Bikol; Bicolano,32,2.666666666666667
+Philippines,Romblomanon,1,0.08333333333333334
+Philippines,Blaan,4,0.33333333333333337
+Philippines,Cebuano; Bisaya; Binisaya,327,27.250000000000004
+Philippines,Chavacano; Chabacano,2,0.16666666666666669
+Philippines,Filipino; Pilipino,460,38.333333333333336
+Philippines,Hiligaynon; Ilonggo,119,9.916666666666666
+Philippines,Ilocano; Ilokano; Iloko,63,5.25
+Philippines,Itneg,18,1.5
+Philippines,Kamayo,14,1.1666666666666667
+Philippines,Kapampangan,20,1.6666666666666667
+Philippines,Maguindanao,24,2.0
+Philippines,Maranao,1,0.08333333333333334
+Philippines,Sama-Bajaw,32,2.666666666666667
+Philippines,Surigaonon,12,1.0
+Philippines,Tausug,14,1.1666666666666667
+Philippines,Waray,50,4.166666666666666
+Philippines,Yakan,7,0.5833333333333334
+Puerto Rico,English,14,1.2466607301869992
+Puerto Rico,Spanish; Castilian,1040,92.60908281389136
+Puerto Rico,Other,69,6.144256455921639
+Romania,Hungarian,95,7.581803671189145
+Romania,"Romanian, Moldavian, Moldovan",1155,92.17877094972067
+Romania,Romansh,3,0.23942537909018355
+Russia,Avar; Avaric,16,0.8839779005524863
+Russia,Chechen,25,1.3812154696132597
+Russia,Russian,1683,92.98342541436465
+Russia,Tatar,37,2.0441988950276246
+Russia,Other,49,2.707182320441989
+Serbia,Albanian,4,0.3864734299516908
+Serbia,Hungarian,24,2.318840579710145
+Serbia,Romani; Romany,6,0.5797101449275363
+Serbia,Serbian,996,96.23188405797102
+Serbia,Slovak,5,0.4830917874396135
+Singapore,English,857,42.59443339960239
+Singapore,Malay; Malaysian,181,8.996023856858846
+Singapore,Standard Chinese; Mandarin; Putonghua; Guoyu,692,34.39363817097416
+Singapore,Tamil,86,4.274353876739562
+Singapore,Other,26,1.2922465208747516
+Singapore,Other Chinese dialects,170,8.449304174950298
+Slovakia,Czech,2,0.16666666666666669
+Slovakia,Hungarian,79,6.583333333333333
+Slovakia,"Romanian, Moldavian, Moldovan",11,0.9166666666666666
+Slovakia,Romani; Romany,1,0.08333333333333334
+Slovakia,Slovak,1106,92.16666666666666
+Slovakia,Other,1,0.08333333333333334
+Vietnam,Muong,3,0.25
+Vietnam,Thai; Central Thai,15,1.25
+Vietnam,Vietnamese,1182,98.5
+Zimbabwe,Karanga; Korekore,10,0.823045267489712
+Zimbabwe,Ndau; chiNdau,5,0.411522633744856
+Zimbabwe,Chitoko,4,0.3292181069958848
+Zimbabwe,Kalanga,1,0.0823045267489712
+Zimbabwe,North Ndebele,161,13.251028806584362
+Zimbabwe,Shona; chiShona,996,81.9753086419753
+Zimbabwe,Tonga,17,1.3991769547325104
+Zimbabwe,Venda; Tshivenda,4,0.3292181069958848
+Zimbabwe,Other,17,1.3991769547325104
+Tajikistan,Pamiri languages,40,3.3333333333333335
+Tajikistan,Russian,15,1.25
+Tajikistan,Tajik,1017,84.75
+Tajikistan,Uzbek,128,10.666666666666668
+Thailand,Esan,482,32.13333333333333
+Thailand,Malay; Malaysian,65,4.333333333333334
+Thailand,Standard Chinese; Mandarin; Putonghua; Guoyu,1,0.06666666666666667
+Thailand,Northern Thai; Lanna,134,8.933333333333334
+Thailand,Southern Thai; Dambro; Pak Thai,132,8.799999999999999
+Thailand,Thai; Central Thai,632,42.13333333333333
+Thailand,Other,48,3.2
+Thailand,"Other local; aboriginal; tribal, community",6,0.4
+Tunisia,Arabic,12,0.9966777408637874
+Tunisia,Berber; Amazigh; Tamaziɣt,1,0.08305647840531562
+Tunisia,Tunisian Arabic; Tunisian,1191,98.9202657807309
+Ukraine,Russian,505,39.23853923853924
+Ukraine,Ukrainian,767,59.59595959595959
+Ukraine,Other,15,1.1655011655011656
+Egypt,Arabic,1200,100.0
+Great Britain,English,2392,92.71317829457364
+Great Britain,Unlisted Language,1,0.03875968992248062
+Great Britain,Polish,28,1.0852713178294573
+Great Britain,Unlisted Language,1,0.03875968992248062
+Great Britain,Unlisted Language,14,0.5426356589147286
+Great Britain,Other,144,5.5813953488372094
+United States,English,2413,93.31013147718484
+United States,Spanish; Castilian,116,4.4856921887084305
+United States,Japanese,1,0.038669760247486466
+United States,Standard Chinese; Mandarin; Putonghua; Guoyu,21,0.8120649651972157
+United States,Vietnamese,3,0.11600928074245939
+United States,Other,32,1.237432327919567
+Uruguay,English,1,0.10030090270812438
+Uruguay,Spanish; Castilian,995,99.79939819458376
+Uruguay,Other,1,0.10030090270812438
+Uzbekistan,Unlisted Language,36,2.88
+Uzbekistan,Kazakh,19,1.52
+Uzbekistan,Russian,45,3.5999999999999996
+Uzbekistan,Tajik,74,5.92
+Uzbekistan,Turkmen,4,0.32
+Uzbekistan,Uzbek,1068,85.44
+Uzbekistan,Other,4,0.32
+Venezuela,Spanish; Castilian,1189,99.91596638655463
+Venezuela,Italian,1,0.08403361344537816
+Northern Ireland,English,428,95.96412556053812
+Northern Ireland,Unlisted Language,2,0.4484304932735426
+Northern Ireland,Polish,4,0.8968609865470852
+Northern Ireland,Other,12,2.690582959641256
