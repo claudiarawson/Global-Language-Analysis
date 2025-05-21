@@ -12,7 +12,7 @@ graph [
   node [
     id 2
     label "az"
-    cluster 1
+    cluster 2
   ]
   node [
     id 3
@@ -22,7 +22,7 @@ graph [
   node [
     id 4
     label "bn"
-    cluster 1
+    cluster 2
   ]
   node [
     id 5
@@ -32,7 +32,7 @@ graph [
   node [
     id 6
     label "ca"
-    cluster 1
+    cluster 2
   ]
   node [
     id 7
@@ -42,7 +42,7 @@ graph [
   node [
     id 8
     label "da"
-    cluster 2
+    cluster 1
   ]
   node [
     id 9
@@ -62,12 +62,12 @@ graph [
   node [
     id 12
     label "en_ze"
-    cluster 1
+    cluster 2
   ]
   node [
     id 13
     label "eo"
-    cluster 1
+    cluster 2
   ]
   node [
     id 14
@@ -77,27 +77,27 @@ graph [
   node [
     id 15
     label "es_419"
-    cluster 1
+    cluster 2
   ]
   node [
     id 16
     label "et"
-    cluster 1
+    cluster 2
   ]
   node [
     id 17
     label "eu"
-    cluster 1
+    cluster 2
   ]
   node [
     id 18
     label "fa"
-    cluster 1
+    cluster 2
   ]
   node [
     id 19
     label "fi"
-    cluster 2
+    cluster 1
   ]
   node [
     id 20
@@ -112,7 +112,7 @@ graph [
   node [
     id 22
     label "hi"
-    cluster 1
+    cluster 2
   ]
   node [
     id 23
@@ -127,17 +127,17 @@ graph [
   node [
     id 25
     label "hy"
-    cluster 1
+    cluster 2
   ]
   node [
     id 26
     label "id"
-    cluster 1
+    cluster 2
   ]
   node [
     id 27
     label "is"
-    cluster 1
+    cluster 2
   ]
   node [
     id 28
@@ -147,62 +147,62 @@ graph [
   node [
     id 29
     label "ja"
-    cluster 1
+    cluster 2
   ]
   node [
     id 30
     label "ka"
-    cluster 1
+    cluster 2
   ]
   node [
     id 31
     label "km"
-    cluster 1
+    cluster 2
   ]
   node [
     id 32
     label "ko"
-    cluster 1
+    cluster 2
   ]
   node [
     id 33
     label "ku"
-    cluster 1
+    cluster 2
   ]
   node [
     id 34
     label "lt"
-    cluster 1
+    cluster 2
   ]
   node [
     id 35
     label "lv"
-    cluster 1
+    cluster 2
   ]
   node [
     id 36
     label "mk"
-    cluster 1
+    cluster 2
   ]
   node [
     id 37
     label "ml"
-    cluster 1
+    cluster 2
   ]
   node [
     id 38
     label "mn"
-    cluster 1
+    cluster 2
   ]
   node [
     id 39
     label "ms"
-    cluster 1
+    cluster 2
   ]
   node [
     id 40
     label "my"
-    cluster 1
+    cluster 2
   ]
   node [
     id 41
@@ -212,7 +212,7 @@ graph [
   node [
     id 42
     label "no"
-    cluster 2
+    cluster 1
   ]
   node [
     id 43
@@ -242,17 +242,17 @@ graph [
   node [
     id 48
     label "sd"
-    cluster 1
+    cluster 2
   ]
   node [
     id 49
     label "si"
-    cluster 1
+    cluster 2
   ]
   node [
     id 50
     label "sk"
-    cluster 1
+    cluster 2
   ]
   node [
     id 51
@@ -262,7 +262,7 @@ graph [
   node [
     id 52
     label "sq"
-    cluster 1
+    cluster 2
   ]
   node [
     id 53
@@ -272,22 +272,22 @@ graph [
   node [
     id 54
     label "sv"
-    cluster 2
+    cluster 1
   ]
   node [
     id 55
     label "te"
-    cluster 1
+    cluster 2
   ]
   node [
     id 56
     label "th"
-    cluster 1
+    cluster 2
   ]
   node [
     id 57
     label "tl"
-    cluster 1
+    cluster 2
   ]
   node [
     id 58
@@ -297,67 +297,67 @@ graph [
   node [
     id 59
     label "uk"
-    cluster 1
+    cluster 2
   ]
   node [
     id 60
     label "ur"
-    cluster 1
+    cluster 2
   ]
   node [
     id 61
     label "vi"
-    cluster 1
+    cluster 2
   ]
   node [
     id 62
     label "zh_CN"
-    cluster 1
+    cluster 2
   ]
   node [
     id 63
     label "zh_TW"
-    cluster 1
+    cluster 2
   ]
   node [
     id 64
     label "zh_ze"
-    cluster 1
+    cluster 2
   ]
   node [
     id 65
     label "am"
-    cluster 1
+    cluster 2
   ]
   node [
     id 66
     label "an"
-    cluster 1
+    cluster 2
   ]
   node [
     id 67
     label "es_ES"
-    cluster 1
+    cluster 2
   ]
   node [
     id 68
     label "as"
-    cluster 1
+    cluster 2
   ]
   node [
     id 69
     label "ast"
-    cluster 1
+    cluster 2
   ]
   node [
     id 70
     label "be"
-    cluster 1
+    cluster 2
   ]
   node [
     id 71
     label "br"
-    cluster 1
+    cluster 2
   ]
   node [
     id 72
@@ -367,97 +367,97 @@ graph [
   node [
     id 73
     label "ga"
-    cluster 1
+    cluster 2
   ]
   node [
     id 74
     label "gd"
-    cluster 1
+    cluster 2
   ]
   node [
     id 75
     label "gl"
-    cluster 1
+    cluster 2
   ]
   node [
     id 76
     label "ig"
-    cluster 1
+    cluster 2
   ]
   node [
     id 77
     label "kk"
-    cluster 1
+    cluster 2
   ]
   node [
     id 78
     label "kn"
-    cluster 1
+    cluster 2
   ]
   node [
     id 79
     label "lb"
-    cluster 1
+    cluster 2
   ]
   node [
     id 80
     label "ne"
-    cluster 1
+    cluster 2
   ]
   node [
     id 81
     label "nn"
-    cluster 2
+    cluster 1
   ]
   node [
     id 82
     label "oc"
-    cluster 1
+    cluster 2
   ]
   node [
     id 83
     label "or"
-    cluster 1
+    cluster 2
   ]
   node [
     id 84
     label "pt_MZ"
-    cluster 1
+    cluster 2
   ]
   node [
     id 85
     label "so"
-    cluster 1
+    cluster 2
   ]
   node [
     id 86
     label "sw"
-    cluster 1
+    cluster 2
   ]
   node [
     id 87
     label "ta"
-    cluster 1
+    cluster 2
   ]
   node [
     id 88
     label "tt"
-    cluster 1
+    cluster 2
   ]
   node [
     id 89
     label "yue"
-    cluster 1
+    cluster 2
   ]
   node [
     id 90
     label "uz"
-    cluster 1
+    cluster 2
   ]
   node [
     id 91
     label "se"
-    cluster 2
+    cluster 1
   ]
   node [
     id 92
